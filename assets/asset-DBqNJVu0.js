@@ -1,0 +1,1 @@
+function e(e){return e.startsWith(`/media/`)?`/armin-productions-preview/`+e.slice(1):e}function t(n){return typeof n==`string`?e(n):Array.isArray(n)?n.map(e=>t(e)):n&&typeof n==`object`?Object.fromEntries(Object.entries(n).map(([e,n])=>[e,t(n)])):n}export{t};
