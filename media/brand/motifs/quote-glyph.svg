@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 50" aria-hidden="true">
+  <defs><g id="qmark"><path d="M 26,-30 C 10,-27 0,-15 0,1 C 0,10 6,16 15,16 C 23,16 29,10 29,2 C 29,-6 23,-11 16,-11 C 17,-18 21,-23 27,-25 Z" fill="currentColor" stroke="none"/></g></defs>
+  <g transform="translate(6 34)"><use href="#qmark"/></g>
+  <g transform="translate(46 34)"><use href="#qmark"/></g>
+</svg>
