@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="270 625 1030 750" width="1030" height="750">
+  <defs>
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="0" y1="1035" x2="0" y2="1250">
+      <stop offset="0" stop-color="#c4934a"/><stop offset="1" stop-color="#302f2b"/>
+    </linearGradient>
+  </defs>
+    <path id="ringR" d="M 629.7 1051.0 A 76 76 0 0 1 665.3 1198.4 A 76 76 0 0 1 608.3 1057.9" fill="none" stroke="#c4934a" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="ringL" d="M 567.2 1172.7 A 84 84 0 0 1 509.1 1015.6 A 84 84 0 0 1 589.8 1162.4" fill="none" stroke="#c4934a" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="flow" d="M 640 1295 C 590 1250 560 1200 562 1130 C 564 1075 585 1040 612 1005 C 650 950 705 893 765 893 C 842 893 882 960 876 1035" fill="none" stroke="#c4934a" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="descent" d="M 876 1035 C 870 1120 800 1205 705 1238 C 668 1270 640 1300 622 1332 C 606 1360 606 1386 630 1390 C 655 1394 674 1372 672 1348 C 670 1336 664 1328 657 1324" fill="none" stroke="url(#fade)" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="lobeL" d="M 578 1352 C 470 1270 330 1170 292 1060 C 272 980 300 900 372 878 C 440 858 530 900 568 985" fill="none" stroke="#c4934a" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="lobeInner" d="M 446 916 C 400 920 352 960 345 1030 C 341 1090 375 1140 413 1162" fill="none" stroke="#c4934a" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="body" d="M 686 809 L 928 809 Q 958 809 958 839 L 958 981 Q 958 1011 928 1011 L 686 1011 Q 656 1011 656 981 L 656 839 Q 656 809 686 809 Z" fill="none" stroke="#302f2b" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="lens" d="M 968 866 L 1012 866 L 1012 944 L 968 944" fill="none" stroke="#302f2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="cone" d="M 1012 866 L 1090 815 L 1090 995 L 1012 944" fill="none" stroke="#302f2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="rim" d="M 1104 815 L 1104 995" fill="none" stroke="#302f2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="reelL" d="M 789 732 A 72 72 0 1 1 645 732 A 72 72 0 1 1 789 732" fill="none" stroke="#302f2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="reelR" d="M 979 720 A 86 86 0 1 1 807 720 A 86 86 0 1 1 979 720" fill="none" stroke="#302f2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="hubL" d="M 747 738 A 27 27 0 1 1 693 738 A 27 27 0 1 1 747 738" fill="none" stroke="#302f2b" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="hubR" d="M 928 723 A 38 38 0 1 1 852 723 A 38 38 0 1 1 928 723" fill="none" stroke="#302f2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="bandL" d="M 734.1 779.0 A 50 50 0 0 1 678.7 764.1 A 50 50 0 0 1 673.7 707.0" fill="none" stroke="#302f2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 9"/>
+    <path id="bandR" d="M 829.2 714.4 A 64 64 0 0 1 840.6 683.3 A 64 64 0 0 1 866.0 662.0" fill="none" stroke="#302f2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 9"/>
+    <path id="bandR2" d="M 956.8 725.6 A 64 64 0 0 1 942.0 761.1 A 64 64 0 0 1 909.6 781.8" fill="none" stroke="#302f2b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 9"/>
+    <path id="film" d="M 700 672 C 740 660 770 690 790 735 C 812 780 835 800 870 798" fill="none" stroke="#c4934a" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="eyepiece" d="M 652 846 L 612 838 L 594 832 L 594 906 L 612 900 L 652 892" fill="none" stroke="#302f2b" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="eyepieceInner" d="M 616 846 L 616 892" fill="none" stroke="#302f2b" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="845" cy="950" r="9" fill="#c4934a"/>
+    <circle cx="757" cy="708" r="8" fill="#c4934a"/>
+    <circle cx="927" cy="673" r="7" fill="#302f2b"/>
+    <circle cx="847" cy="772" r="7" fill="#302f2b"/>
+    <path id="band" d="M 1278 915 A 72 72 0 1 1 1134 915 A 72 72 0 1 1 1278 915" fill="none" stroke="#c4934a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="bandGlint" d="M 1231.0 871.7 A 50 50 0 0 1 1244.3 882.9 A 50 50 0 0 1 1253.0 897.9" fill="none" stroke="#c4934a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="diamond" d="M 1170 772 L 1210 772 L 1219 793 L 1190 843 L 1162 793 Z M 1162 793 L 1219 793 M 1170 772 L 1178 793 L 1190 843 M 1210 772 L 1202 793" fill="none" stroke="#c4934a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="sparkle" d="M 1246 752 L 1246 788 M 1228 770 L 1264 770" fill="none" stroke="#c4934a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
